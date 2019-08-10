@@ -12,5 +12,6 @@
 				<li class="fh5co-cta-btn"><a href="#">Sign up</a></li>
 			</ul>
 		</nav>
+        @yield('sectionHeader')
 	</div>
 </section>
